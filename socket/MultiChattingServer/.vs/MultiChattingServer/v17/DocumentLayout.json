@@ -14,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 186,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "MultiChattingServer.cpp",
               "ToolTip": "D:\\00-git\\study\\socket\\MultiChattingServer\\MultiChattingServer.cpp",
               "RelativeToolTip": "MultiChattingServer.cpp",
-              "ViewState": "AQIAAJMAAAAAAAAAAAAAAKQAAAAJAAAA",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAswGoAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-17T06:08:47.684Z",
               "EditorCaption": ""
